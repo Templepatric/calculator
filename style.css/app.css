@@ -1,0 +1,109 @@
+*{
+    box-sizing: content-box;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 100px;
+    display: grid;
+    color: blue;
+
+}
+.cal-container{
+    background-color: blue;
+    border-radius: 30px;
+    color: black;
+    display: grid;
+    height: 100px;
+    padding: 10px;
+    width: 563px;
+
+    
+}
+.calculator{
+     background: #3a4452;
+     padding: 20px;
+     border-radius: 10px;
+     width: 60;
+      height: 60;
+
+
+}
+.man {
+border: 0;
+outline: 0;
+width: 60px;
+height: 60px;
+border-radius: 10px;
+box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2);
+background: transparent;
+font-size: 20px;
+color: #642e44;
+cursor: pointer;
+margin: 10px  ;
+
+
+}
+.no {
+    color: blue;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background: transparent;
+     font-size: 20px;
+     cursor: pointer;
+     margin: 10px;
+}
+
+.yes {
+
+color: blue;
+background-color: black;
+width: 60px;
+height: 60px;
+border-radius: 10px;
+background: transparent;
+font-size: 20px;
+cursor: pointer;
+margin: 10px;
+
+}
+
+.call {
+
+color: blue;
+background-color: black;
+width: 60px;
+height: 60px;
+border-radius: 10px;
+background: transparent;
+font-size: 20px;
+cursor: pointer;
+margin: 10px;
+
+}
+
+.from {
+
+color: blue;
+background-color: black;
+width: 60px;
+height: 60px;
+border-radius: 10px;
+background: transparent;
+font-size: 20px;
+cursor: pointer;
+margin: 10px;
+}
+
+
+
+
+
+
+
+
